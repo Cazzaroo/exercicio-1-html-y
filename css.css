@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(0, 26, 255);
+}
+body{
+    color: rgb(0, 0, 0);
+}
+
+a{  
+    color: black;
+}
+a{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+h2{
+    color:black;
+}
+
+#idNome{
+    color: blue;
+    font-size: 20px;
+}
